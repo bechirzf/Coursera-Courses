@@ -1,0 +1,22 @@
+Advanced Graphing and Charting
+
+Q1:Fill in the tab, "Question 1 - get data" using the VLOOKUP formula. What is the value in cell C200?
+A1:79
+
+Q2:Use a pivot chart to create a bar plot of the average assaults by day of week. Which days of week has the fewest assaults on average?
+A2:Weekends (Saturday and Sunday)
+
+Q3:Modify the pivot plot to plot the average temperatures by day of week. What does it look like?
+A3:Sunday/Monday almost equal, with Friday lowest
+
+Q4:Create a scatter plot of Assault (Y axis) vs. Temperature (X axis). What does it look like?
+A4:Crime and Temp Increasing together (Correlated)
+
+Q5What is the possible relationship between crime and temperature?
+A5:Crime increases as temperature rises.
+
+Q6:Find the minimum and maximum number of assaults, and create 10 evenly spaced bins that cover the data on assaults. What is the approximate bin width?
+A6:8
+
+Q7:Create a histogram using the assaults data and 10 bins. What can you conclude based on the histogram?
+A7:The distribution of assaults is symmetric.

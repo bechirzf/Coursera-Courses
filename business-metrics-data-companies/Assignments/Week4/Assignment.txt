@@ -1,0 +1,18 @@
+Peer-graded Assignment: Articulating Business Metrics in a Business Case Study
+
+Using Business Relevant Metrics to Empower Sales and Drive Revenue for Happy Hat Yoghurt Stores
+
+Question 1: Identify a business metric based on the case study.
+ANS: The metric that is suitable for bring business process change is "Days Inventory". 
+
+Question 2: For the identified metric, state whether it is a revenue, profitability or risk metric.
+ANS: The above metric is identified as "Profitability Metric [or Efficiency Metric]".
+
+Question 3: Identify the metric as traditional or dynamic. Explain why you classified the metric as you did.
+ANS:The metric may be classified as "Dynamic Metric" as it is useful in showing significant changes in certain time intervals and can create impact directly by changing the business process.
+
+Question 4: Which of the data available in the case study would be used to derive the metric you have chosen?
+ANS:We can use the delivery data to find products with expired (or Sell-by dates) on the shelf and also use the accounting data to find the average number of days between product arrives in the store and is sold to customer. 
+
+Question 5: Propose a type of relevant business process change that would be supported by the metric you have chosen. Explain why and how your chosen metric relates to your recommended business process change.
+ANS: The business process change, recommended here is to keep track of its inventory, use days inventory to get rid of stale products and use customer preferences to place suitable products on the shelf. Doing this will help address the primary concern of the store which is to understand its most loyal customers and will aid in increasing their revenue and maximise profitability.

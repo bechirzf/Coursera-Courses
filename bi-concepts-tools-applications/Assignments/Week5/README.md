@@ -1,0 +1,1 @@
+Includes Assignments for Week 5 on the Business Intelligence: Tools, Concepts and Applications Course in Data Warehousing for Business Intelligence Specialization by University of Colarado Denver.

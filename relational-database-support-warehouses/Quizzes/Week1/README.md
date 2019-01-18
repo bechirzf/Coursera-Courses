@@ -1,0 +1,1 @@
+Includes Quizzes for Week 1 on the Relational Database Support for Data Warehouses Course in Data Warehousing for Business Intelligence Specialization by University of Colarado Denver.

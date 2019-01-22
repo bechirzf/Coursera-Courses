@@ -1,1 +1,0 @@
-Includes Quizzes for Week 6 on the Database Management Essentials Course in Data Warehousing for Business Intelligence Specialization by University of Colarado Denver.

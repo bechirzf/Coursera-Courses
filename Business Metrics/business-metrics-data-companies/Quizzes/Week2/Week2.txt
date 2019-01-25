@@ -1,0 +1,46 @@
+Working in the Business Data Analytics Marketplace
+
+Q1.Data Scientists most often enter into that position by:
+A1.Starting as a Business Analyst and gaining experience and additional technical skills on the job
+
+Q2.Why is it important for Business Analysts to have “local knowledge” of business sectors?
+A2.Business Analyst typically work in a specific business sector, such as insurance, and every sector has specialized metrics developed for that sector.
+
+Q3.Why should a Business Data Analyst have SQL skills?
+A3.All of the above.
+
+Q4.True or False: “NONE of the nine skills required of all Business Data Analysts are part of the skills used regularly by the typical software engineer.”
+A4.True
+
+Q5.True or False: Strategic consulting firms with a software/systems integration focus often introduce the latest methods for achieving competitive advantage into a particular vertical market, such as retail pharmacies, which forces other companies in that vertical to use the same methods to stay competitive.
+A5.True
+
+Q6.Hardware & software companies compete in a market that has a very unusual cost structure. This is because:
+A6.They incur almost all their costs up front, before the first product is sold, while the incremental cost to create one more unit of the product is very low.
+
+Q7.Business Data Analyst Tiffany Yu advises that in order to learn to write SQL queries well enough to be able to start gathering information for yourself, you will need to prepare (study) for about:
+A7.One Week
+
+Q8.Of the five business types represented among US companies, Traditional Strategic Business Consulting firms are the least likely to hire software engineers and technical project managers. Why?
+A8.Strategic Business Consulting generally does not include developing or installing technology.
+
+Q9.Which other type of Company represents the biggest threat to “bricks and mortar” Companies?
+A9.Digital Companies
+
+Q10.What software tool is Data Scientist Dai Li referring to, when he says, “Of course I also use [it]. It sounds like [it] is more nontechnical, but actually it is a very good tool. You can do a lot of data processing, data analysis, and data modeling if you are using [it] with very good efficiency.”
+A10.Excel
+
+Q11.The current world leader in market share for remote (“cloud-based”) hosting of other companies’ data and applications is:
+A11.Amazon
+
+Q12. For brick and mortar businesses to survive digital competition, the most important factor is:
+A12.Does the company deliver its product or service as quickly as its online competitors?
+
+Q13.The term “Point-of-sale customization” means:
+A13.Targeting individual customers with coupons or other special offers when they visit a store, based on their past purchase history
+
+Q14.One survival strategy which will definitely NOT succeed for Barnes & Noble in its struggle with Amazon is:
+A14.Putting more resources into their web presence and online sales
+
+Q15.What is the primary difference in business model between the two Digital Companies Uber and Airbnb?
+A15.Uber sets prices for drivers; Airbnb lets property owners set prices themselves.

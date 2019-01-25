@@ -1,0 +1,32 @@
+Introduction to Spreadsheets
+
+Q1:The format used in the "Store Sales 2011.txt" file is
+A1:Comma Delimitted
+
+Q2:Import the file into Excel using the correct file format from the previous question. How many rows of data does the file contain?
+A2:2002
+
+Q3:Sort the data by Order Date (oldest to newest) and then by Order Quantity (largest to smallest). After the data is sorted, what is the Order ID of the order in the 3rd row of data (i.e. spreadsheet row 4)?
+A3:17058
+
+Q4:Using cell references, how could you calculate the unit price of the order in the first row of data?
+A4:=E2/D2
+
+Q5:Insert a new column to the right of the “Sales” column, and type the name “Unit Price” as the header. Using cell references, calculate the unit price of the order in the first row, then copy and paste that formula down to the remaining rows.
+Rounded to 2 decimal places, what is the Unit Price of the last row of data? (Do not include a dollar sign or commas in your answer)
+A5:30.28
+
+Q6:What is the largest Unit Price in this dataset?
+A6:7122.17
+
+Q7:How many orders were sent by Delivery Truck? Assume each line is counted as a single order.
+A7:259
+
+Q8:What is the total shipping cost of all orders sent by Delivery Truck?
+A8:11973.56
+
+Q9:If you wanted to know the range, or the difference between the highest and lowest value, of the shipping costs in this dataset, which formula could you use?
+A9:=MAX(H2:H2003)-MIN(H2:H2003)
+
+Q10:What is the average shipping cost (to 2 decimal places) of all orders sent by Delivery Truck?
+A10:

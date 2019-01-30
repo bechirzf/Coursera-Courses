@@ -1,0 +1,38 @@
+Module 3 Coding Assignment
+
+1. Question 1
+ll of the questions in this quiz refer to the open source Chinook Database. Please familiarize yourself with the ER diagram in order to familiarize yourself with the table and column names in order to write accurate queries and get the appropriate answers.
+Using a subquery, find the names of all the tracks for the album "Californication".
+What is the title of the 8th track?
+1.Porcelain
+2. Question 2
+All of the questions in this quiz refer to the open source Chinook Database. Please familiarize yourself with the ER diagram in order to familiarize yourself with the table and column names in order to write accurate queries and get the appropriate answers.
+Find the total number of invoices for each customer along with the customer's full name, city and email.
+After running the query described above, what is the email address of the 5th person, František Wichterlová? Enter the answer below (feel free to copy and paste).
+2.frantisekw@jetbrains.com
+3. Question 3
+All of the questions in this quiz refer to the open source Chinook Database. Please familiarize yourself with the ER diagram in order to familiarize yourself with the table and column names in order to write accurate queries and get the appropriate answers.
+Retrieve the track name, album, artistID, and trackID for all the albums.
+What is the song title of trackID 12 from the "For Those About to Rock We Salute You" album? Enter the answer below.
+3.Breaking The Rules   
+4. Question 4
+All of the questions in this quiz refer to the open source Chinook Database. Please familiarize yourself with the ER diagram in order to familiarize yourself with the table and column names in order to write accurate queries and get the appropriate answers.
+Retrieve a list with the managers last name, and the last name of the employees who report to him or her.
+After running the query described above, who are the reports for the manager named Mitchell (select all that apply)?
+4.King/Callahan
+ 5. Question 5
+All of the questions in this quiz refer to the open source Chinook Database. Please familiarize yourself with the ER diagram in order to familiarize yourself with the table and column names in order to write accurate queries and get the appropriate answers.
+Find the name and ID of the artists who do not have albums.
+After running the query described above, two of the records returned have the same last name. Enter that name below.
+5.Gilberto              
+6. Question 6
+All of the questions in this quiz refer to the open source Chinook Database. Please familiarize yourself with the ER diagram in order to familiarize yourself with the table and column names in order to write accurate queries and get the appropriate answers.
+Use a UNION to create a list of all the employee's and customer's first names and last names ordered by the last name in descending order.
+After running the query described above, determine what is the last name of the 6th record? Enter it below. Remember to order things in descending order to be sure to get the correct answer.
+6.Taylor
+7. Question 7
+All of the questions in this quiz refer to the open source Chinook Database. Please familiarize yourself with the ER diagram in order to familiarize yourself with the table and column names in order to write accurate queries and get the appropriate answers.
+See if there are any customers who have a different city listed in their billing city versus their customer city.
+Indicate your answer below.
+7.No customers have a different city listed in their billing city versus customer city.
+

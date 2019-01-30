@@ -1,0 +1,49 @@
+Module 4 Quiz
+
+1. Question 1
+Which of the following are supported in SQL when dealing with strings? (Select all that apply)
+1.Upper
+Substring
+Trim
+Lower
+Concatenate
+2. Question 2
+What will the result of the following statement be?
+SELECT SUBSTR('You are beautiful.', 3)
+2.u are beautiful.
+3. Question 3
+What is the results of the following query?
+select * orders
+where order_date = ‘2017-07-15’
+Additional information:
+Orders = integer
+Order_date = datetime
+3.You won't get any results.
+4. Question 4
+Case statements can only be used for which of the following statements (select all that apply)?
+4.Select/Insert/Update
+5. Question 5
+Which of the following is FALSE regarding views?
+5.Views are stored in a query
+6. Question 6
+You are only allowed to have one condition in a case statement. True or false?
+6.False
+7. Question 7
+Select the correct SQL syntax for creating a view.
+7.CREATE VIEW
+customers AS
+SELECT * 
+FROM customers
+WHERE Name LIKE '%I'
+
+8. Question 8
+Profiling data is helpful for which of the following? (Select all that apply)
+8.Joining tables together
+Understanding your data
+Filter out unwanted data elements
+9. Question 9
+What is the most important step before beginning to write queries?
+9.Understanding your data
+10. Question 10
+When debugging a query, what should you always remember to do first?
+10.Start simple and break it down first

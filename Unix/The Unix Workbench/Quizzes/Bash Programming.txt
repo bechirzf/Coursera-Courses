@@ -1,0 +1,90 @@
+Bash Programming
+
+1. Question 1
+Which of the following are requirements for variable names?
+1.Every character in the name is lowercase.
+The variable name starts with a letter.
+
+2. Question 2
+What does the exit status of a program indicate?
+2.The exit status of a program indicates whether the program was executed successfully or whether an error occurred.
+
+3. Question 3
+What is printed to the console by the following command?
+echo Demetrius || [[ 6 -eq 7 ]] || echo Helena && echo Hermia || [[ 7 -gt 4 ]]
+3.Demetrius
+Hermia
+
+4. Question 4
+Consider the following program called numrange.sh:
+#!/usr/bin/env bash
+# File: numrange.sh
+
+odd=$(echo "$1 % 2" | bc)
+
+if [[ $odd -eq 0 ]]
+then
+  status="even"
+else
+  status="odd"
+fi
+
+if [[ $1 -gt 0 ]] && [[ $1 -lt 10 ]]
+then
+  location="in"
+else
+  location="out of"
+fi
+
+echo "This number is $status and $location range."
+
+4.This number is even and in range.
+This number is odd and out of range.
+This number is even and out of range.
+
+5. Question 5
+What is the result of the script below?
+lab=(jeff roger brian)
+lab[3]=sean
+lab=("${lab[*]}" "${lab[*]}")
+echo ${#lab[*]}
+5.2
+
+6. Question 6
+Consider the following program called reqseq.sh:
+#!/usr/bin/env bash
+# File: repseq.sh
+
+sequence=$(eval echo {$1..$2})
+
+for i in $sequence
+do
+  compute=$(echo "$i % $3" | bc)
+  result="$result $compute"
+done
+
+echo $result
+
+Which of the commands below would create the following output?
+1 2 0 1 2 0 1 2 0
+6.bash repseq.sh 1 9 2
+
+7. Question 7
+What's the purpose of the local keyword?
+7.The local keyword allows you to assign the value of a variable within a function without changing the global value of that variable.
+
+8. Question 8
+Which of the following are not part of the Unix Philosophy?
+8.Programs should have easy to understand error messages.
+A program should run quickly.
+
+9. Question 9
+What actions are taken by the following commands?
+chmod a+x my_program
+chmod go-rw my_program
+9.Allows only the owner to execute my_program.
+Prevents anyone the owner from reading or modifying my_program.	
+
+10. Question 10
+What is one reason you might want to modify the PATH environmental variable?
+10.You can add a directory containing your own programs to the PATH which allows you to access them on the command line.

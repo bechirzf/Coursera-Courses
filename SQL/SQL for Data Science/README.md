@@ -1,0 +1,1 @@
+Includes Lecture Slides, Quizzes and Assignments on the SQL for Data Science Course by University of California Davis.

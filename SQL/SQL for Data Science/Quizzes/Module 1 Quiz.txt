@@ -1,0 +1,60 @@
+Module 1 Quiz
+
+1. Question 1
+Select the jobs below that may use SQL in their work (select all that apply).
+1.Data Scientist
+QA Engineer
+Backend Developer
+DBA
+Data Analyst
+
+2. Question 2
+How does a data scientist and DBA differ in how they use SQL?
+2.DBAs manage the database for other users.
+
+3. Question 3
+Which of the following statements are true of Entity Relationship (ER) Diagrams?
+3.They show you the relationships between tables.
+They usually are represented in a visual format.
+They identify the Primary Keys
+They are usually a representation of a business process.
+
+4. Question 4n
+Select the query below that will retrieve all columns from the customers table.
+4.SELECT * FROM customers
+
+5. Question 5
+Select the query that will retrieve only the Customer First Name, Last Name, and Company.
+5.SELECT 
+FirstName
+,LastName
+,Company
+FROM customers
+
+6. Question 6
+The ER diagram below is depicting what kind of relationship between the EMPLOYEES and CUSTOMERS tables?
+6.One-to-many
+
+7. Question 7
+The data model depicted in the ER diagram below could be described as a _______________.
+7.Relational Model
+
+8. Question 8
+When using the "CREATE TABLE" command and creating new columns for that table, which of the following statements is true?
+8.You must assign a data type to each column
+
+9. Question 9
+Look at the values in the two columns below. Based on the values in each column, which column could potentially be used as a primary key?
+Column 1	Column 2
+5	2
+6	4
+1	5
+2	5
+34	32
+8	6
+9	4
+9.Column 1
+
+10. Question 10
+In order to retrieve data from a table with SQL, every SQL statement must contain?
+10.SELECT

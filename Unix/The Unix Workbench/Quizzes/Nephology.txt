@@ -1,0 +1,26 @@
+Nephology
+
+1. Question 1
+What is a cloud computer?
+1.
+
+2. Question 2
+What is the purpose of the ssh command?
+2.
+
+3. Question 3
+What is HTTP?
+3.
+
+4. Question 4
+What's the purpose of the scp command?
+4.
+
+5. Question 5
+Consider the following cron table:
+00 00 05 * * bash /users/brian/neuro.sh   
+30 20 * * 5 bash /users/sean/backup.sh   
+00 00 * 07 * bash /users/jeff/genome.sh   
+00 00 * * 2 bash /users/roger/pm25.sh   
+When is the backup.sh program executed?
+5.Every Friday at 8:30pm

@@ -1,0 +1,78 @@
+Working with Unix
+
+1. Question 1
+Let's say you run the following command in your working directory and you get the following result:
+ls
+2017-log-tmp-44.txt
+2017-log-tmp-45.txt
+2017-log-tmp-46.txt
+2017-log-3312.txt
+2017-log-3313.txt
+2017-log-3314.txt
+Which of the following series of commands would you use to move all files that have tmp in their name into a directory called tmpfiles.
+1.mkdir tmpfiles
+mv *-tmp-* tmpfiles
+
+2. Question 2
+This question asks about a file called states.txt which you can find here.
+Which of the following commands would print all of the states with names that start with a vowel?
+2.egrep "^[AEIOU]" states.txt
+
+3. Question 3
+This question asks about a file called states.txt which you can find here.
+Which of the following is printed as the result of the command below?
+egrep "^M.*a$" states.txt
+3.Minnesota
+
+Montana
+
+4. Question 4
+What action is taken by the following command?
+cat message1.txt message2.txt > email.txt
+4.The text files message1.txt and message2.txt are combined in a new file called email.txt.
+
+5. Question 5
+Which of the following commands is capable of printing the following line to the console, assuming the following line is in a file called iago.txt?
+So will I turn her virtue into pitch, And out of her own goodness make the net That shall enmesh them all.
+5.egrep "\W\sA" iago.txt
+
+6. Question 6
+What's the difference between the ~/.bash_history file and history command?
+6.The history command shows the commands that you've used in your current shell session, while ~/.bash_history collects commands that you've used in past shell sessions.
+
+7. Question 7
+What's the purpose of the alias command?
+7.It allows you to create shortcuts for commands which are usual set in ~/.bash_profile.
+
+8. Question 8
+This question asks about a file called states.txt which you can find here.
+Imagine you create a file called states2.txt with the following command:
+cat states.txt states.txt > states2.txt
+8.77f7ca8608f7c204143a0238bbbfb759
+
+9. Question 9
+Consider a situation where the following makefile is in an otherwise empty directory:
+all: file1.txt file2.txt
+
+file1.txt:
+	echo 'This is file1' > file1.txt
+
+file2.txt:
+	echo 'This is file2' > file2.txt
+
+clean:
+	rm file1.txt file2.txt
+What is the sequence of events that occurs if you run the following commands in the shell?
+make file1.txt
+make
+make clean
+9.file1.txt is created.
+file2.txt is created.
+Both file1.txt and file2.txt are destroyed.
+
+10. Question 10
+Take a look at the man page for echo. The echo command only has one flag. What is the flag and what is the purpose of the flag?
+10.The flag is -n and prevents a newline character from being printed after the printed text.
+
+
+

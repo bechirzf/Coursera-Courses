@@ -1,0 +1,32 @@
+Git and GitHub
+
+1. Question 1
+Why use Git?
+1.Git allows you to work simultaneously with collaborators on the same project without overwriting each other's work.
+Git backs up your work and allows you to return your files to a previous state.
+
+2. Question 2
+What is a Git repository?
+2.A Git repository is a directory where all of the changes to your files are tracked by Git.
+
+3. Question 3
+What's the best way to identify an individual Git commit?
+3.The SHA-1 hash generated for the commit.
+
+4. Question 4
+What's the purpose of a .gitignore file?
+4.The .gitignore file specifies files and folders that should not be tracked.
+
+5. Question 5
+Consider the situation where the following commands are executed in a new, empty directory:
+git init
+touch todo.txt
+touch message.txt
+git add todo.txt
+git commit -m "first commit"
+git add message.txt
+echo "- Buy cherries" >> todo.txt
+git commit -m "second commit"
+echo "- Dear Philip," >> message.txt
+By the end of these commands, what is the status of this repository?
+5.Blank versions of the files todo.txt and message.txt have been committed to the repository. Content added to those files has not yet been committed.

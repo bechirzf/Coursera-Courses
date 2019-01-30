@@ -1,0 +1,68 @@
+Command Line Basics
+
+1. Question 1
+What kind of interface do you use to interact with Unix tools?
+1.A command line interface.
+
+2. Question 2
+If you type nothing at the prompt and you press Enter, what happens?
+2.No command is executed and you get a new prompt under the old prompt.
+
+3. Question 3
+What is printed if you enter the following into the console:
+echo 'Hello World!'
+3.Hello World!
+
+4. Question 4
+What directory does your shell start in?
+4.The home directory.
+
+5. Question 5
+The path that is printed as the result of the pwd command is...
+5... the path to the working directory.
+
+6. Question 6
+The cd command...
+6.... changes the working directory.
+
+7. Question 7
+Which of the following commands can you use to create a new directory?
+7.mkdir
+
+8. Question 8
+Which of the following commands can you use to create a new file?
+8.touch
+
+9. Question 9
+What would the be printed to the console as the result of the following commands?
+echo 'Todo list:' > todo.txt
+echo '- Email Jeff' >> todo.txt
+cat todo.txt
+9.Todo list:
+- Email Jeff
+
+10. Question 10
+What actions are performed by the following commands?
+mkdir documents
+
+mkdir notes
+
+touch documents/todo.txt
+
+echo 'My to do list:' > documents/todo.txt
+
+touch bio-notes.txt
+
+mv bio-notes.txt notes
+
+cp -r notes documents
+
+rm -rf notes
+10.Create Documents/Notes Directories
+Create todo.txt in Documents Folder
+Add Contents to todo.txt
+Create bionotes.txt
+Move bio-notes.txt to Notes Folder
+Copy Notes into Documents Folder
+Remove Notes Folder
+
